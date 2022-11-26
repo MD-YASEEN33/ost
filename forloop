@@ -1,0 +1,13 @@
+using system;
+namespace abc
+{
+public static void main(String args[])
+{
+int n=2,sum=0;
+for(i=1;i<=n;i++)
+{
+sum=sum+i;
+}
+console.WriteLine(sum of first {0} natural numbers={1},n,sum);
+}
+}
